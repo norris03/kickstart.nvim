@@ -20,6 +20,8 @@
 =====================================================================
 =====================================================================
 
+require 'nvim-treesitter.install'.compilers = { "clang" }
+
 What is Kickstart?
 
   Kickstart.nvim is *not* a distribution.
